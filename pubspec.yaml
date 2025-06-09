@@ -1,0 +1,63 @@
+name: pritam_manage_info_sys
+description: "A new Flutter project."
+
+publish_to: "none"
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  http: ^1.2.2
+  phosphor_flutter: ^2.1.0
+  feather_icons: ^1.2.0
+  firebase_core: ^3.11.0
+  firebase_auth: ^5.4.0
+  eva_icons_flutter: ^3.1.0
+  cloud_firestore: ^5.6.3
+  flutter_native_splash: ^2.4.4
+  get: ^4.7.2
+  image_picker: ^1.1.2
+  firebase_storage: ^12.4.4
+  pie_chart: ^5.4.0
+  fl_chart: ^0.70.2
+  intl: ^0.20.2
+
+dev_dependencies:
+  flutter_launcher_icons: ^0.14.3
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^4.0.0
+
+flutter_icons:
+  android: true
+  ios: true
+  image_path: "assets/logos/Pritam_MIS_Logo_increased.png"
+
+flutter_native_splash:
+  color: "#FFFFFF"
+  image: "assets/logos/Pritam_MIS_Logo_increased.png"
+
+flutter:
+  uses-material-design: true
+
+  assets:
+    - assets/images/Ellipse 23.png
+    - assets/logos/Pritam_MIS_Logo.png
+    - assets/logos/Pritam_MIS_Logo_increased.png
+    - assets/images/Ellipse 31.png
+    - assets/images/bi_three-dots-vertical.png
+    - assets/images/Group 1000007460.png
+    - assets/images/line vertical.png
+    - assets/images/Group-2 1.png
+
+  fonts:
+    - family: AvenirLTStd55Roman
+      fonts:
+        - asset: assets/fonts/AvenirLTStd55Roman.otf
+    - family: SangbleuSunrise
+      fonts:
+        - asset: assets/fonts/SangBleu-Sunrise.ttf

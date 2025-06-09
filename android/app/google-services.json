@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "274408407042",
+    "project_id": "pritam-info-sys",
+    "storage_bucket": "pritam-info-sys.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274408407042:android:e0b03ce3e2b15486c8a71b",
+        "android_client_info": {
+          "package_name": "com.example.pritaminfosys"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzh6f_wFCt7o68KFef_zH8GiI0EWpGBXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
