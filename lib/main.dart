@@ -6,6 +6,7 @@ import 'package:pritam_manage_info_sys/presentation/core/constants/app_colors.da
 import 'package:pritam_manage_info_sys/presentation/core/constants/customs/custom_bottom_navigationbar.dart';
 import 'package:pritam_manage_info_sys/presentation/features/auth/login/pages/login_page.dart';
 
+// gurnoor@gmail.com email and pass 12345678
 void main() async {
   WidgetsFlutterBinding.ensureInitialized();
 
